@@ -1,0 +1,221 @@
+[
+    {
+        "id": "phoneme1",
+        "label": "/ă/",
+        "file": "a-cake.mp3",
+        "sampleword": "apple",
+        "type": "other"
+    },
+    {
+        "id": "phoneme2",
+        "label": "/ā/",
+        "file": "a-apple.mp3", 
+        "sampleword": "cake",
+        "type": "other"
+    },
+    {
+        "id": "phoneme3",
+        "label": "/air/",
+        "file": "air-pair-share.mp3", 
+        "sampleword": "pair, share",
+        "type": "other"
+    },
+    {
+        "id": "phoneme4",
+        "label": "/ar/",
+        "file": "ar-jar.mp3", 
+        "sampleword": "are, ar",
+        "type": "other"
+    },
+    {
+        "id": "phoneme5",
+        "label": "/aw/",
+        "file": "aw-haul-hawk-ball.mp3", 
+        "sampleword": "hawk, ball",
+        "type": "other"
+    },
+    {
+        "id": "phoneme7",
+        "label": "/ĕ/",
+        "file": "e-elephant.mp3", 
+        "sampleword": "elephant",
+        "type": "other"
+    },
+    {
+        "id": "phoneme8",
+        "label": "/ē/",
+        "file": "e-team.mp3", 
+        "sampleword": "team",
+        "type": "other"
+    },
+    {
+        "id": "phoneme9",
+        "label": "/ear/",
+        "file": "ear-hear.mp3", 
+        "sampleword": "hear",
+        "type": "other"
+    },
+    {
+        "id": "phoneme10",
+        "label": "/er/",
+        "file": "er-herd-bird-turn.mp3", 
+        "sampleword": "bird, turn",
+        "type": "other"
+    },
+    {
+        "id": "phoneme11",
+        "label": "/f/",
+        "file": "f-fun.mp3", 
+        "sampleword": "fun", 
+        "type": "fricative"
+    },
+    {
+        "id": "phoneme12",
+        "label": "/h/",
+        "file": "h-hat.mp3", 
+        "sampleword": "hat",
+        "type": "fricative"
+    },
+    {
+        "id": "phoneme13",
+        "label": "/hw/",
+        "file": "hw-whip.mp3", 
+        "sampleword": "whip", 
+        "type": "fricative"
+    },
+    {
+        "id": "phoneme14",
+        "label": "/i/",
+        "file": "i-igloo.mp3", 
+        "sampleword": "igloo",
+        "type": "other"
+    },
+    {
+        "id": "phoneme15",
+        "label": "/ī/",
+        "file": "i-kite.mp3", 
+        "sampleword": "kite",
+        "type": "other"
+    },
+    {
+        "id": "phoneme16",
+        "label": "/ŏ/",
+        "file": "o-octopus.mp3", 
+        "sampleword": "octopus", 
+        "type": "other"
+    },
+    {
+        "id": "phoneme17",
+        "label": "/ō/",
+        "file": "o-rope.mp3", 
+        "sampleword": "rope",
+        "type": "other"
+    },
+    {
+        "id": "phoneme18",
+        "label": "/oi/",
+        "file": "oi-soil-toy.mp3", 
+        "sampleword": "soil, toy",
+        "type": "other"
+    },
+    {
+        "id": "phoneme19",
+        "label": "/oo/",
+        "file": "oo-book-bush.mp3", 
+        "sampleword": "book, bush",
+        "type": "other"
+    },
+    {
+        "id": "phoneme20",
+        "label": "/oo/",
+        "file": "oo-boot-new.mp3", 
+        "sampleword": "boot, new",
+        "type": "other"
+    },
+    {
+        "id": "phoneme21",
+        "label": "/or/",
+        "file": "or-fork.mp3", 
+        "sampleword": "fork",
+        "type": "other"
+    },
+    {
+        "id": "phoneme22",
+        "label": "/ou/",
+        "file": "ou-how-out.mp3", 
+        "sampleword": "how, out",
+        "type": "other"
+    },
+    {
+        "id": "phoneme25",
+        "label": "/s/",
+        "file": "s-sit-mess.mp3", 
+        "sampleword": "sit, mess",
+        "type": "fricative"
+    },
+    {
+        "id": "phoneme26",
+        "label": "/ə/",
+        "file": "schwa-what.mp3",
+        "sampleword": "what",
+        "type": "other"
+    },
+    {
+        "id": "phoneme27",
+        "label": "/sh/",
+        "file": "sh-ship.mp3", 
+        "sampleword": "ship",
+        "type": "fricative"
+    },
+    {
+        "id": "phoneme28",
+        "label": "/th/",
+        "file": "th-the.mp3", 
+        "sampleword": "the",
+        "type": "fricative"
+    },
+    {
+        "id": "phoneme29",
+        "label": "/th/",
+        "file": "th-thin.mp3", 
+        "sampleword": "thin",
+        "type": "fricative"
+    },
+    {
+        "id": "phoneme30",
+        "label": "/oo/",
+        "file": "u-lute-glue.mp3", 
+        "sampleword": "lute, glute",
+        "type": "other"
+    },
+    {
+        "id": "phoneme31",
+        "label": "/ŭ/",
+        "file": "u-up.mp3", 
+        "sampleword": "up",
+        "type": "other"
+    },
+    {
+        "id": "phoneme32",
+        "label": "/yoo/",
+        "file": "u-use-cue.mp3", 
+        "sampleword": "use, cue",
+        "type": "other"
+    },
+    {
+        "id": "phoneme33",
+        "label": "/ure/",
+        "file": "ure-lure.mp3", 
+        "sampleword": "lure",
+        "type": "other"
+    },
+    {
+        "id": "phoneme34",
+        "label": "/v/",
+        "file": "v-van.mp3", 
+        "sampleword": "van",
+        "type": "fricative"
+    }
+    
+]
+
